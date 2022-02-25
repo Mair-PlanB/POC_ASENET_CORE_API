@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAPI", "TestAPI\TestAPI.csproj", "{7E240C64-2758-44AC-A61A-7C50C0AE5DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{C2971003-2A27-4C41-899D-EEC668E13D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontendNeu", "FrontendNeu\FrontendNeu.csproj", "{3BD9DFF6-8893-4E14-983F-51100B6C39F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E240C64-2758-44AC-A61A-7C50C0AE5DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E240C64-2758-44AC-A61A-7C50C0AE5DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E240C64-2758-44AC-A61A-7C50C0AE5DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E240C64-2758-44AC-A61A-7C50C0AE5DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2971003-2A27-4C41-899D-EEC668E13D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2971003-2A27-4C41-899D-EEC668E13D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2971003-2A27-4C41-899D-EEC668E13D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2971003-2A27-4C41-899D-EEC668E13D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD9DFF6-8893-4E14-983F-51100B6C39F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD9DFF6-8893-4E14-983F-51100B6C39F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD9DFF6-8893-4E14-983F-51100B6C39F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD9DFF6-8893-4E14-983F-51100B6C39F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D4B91A-151B-40CC-ABA0-38D38C12D80B}
+	EndGlobalSection
+EndGlobal

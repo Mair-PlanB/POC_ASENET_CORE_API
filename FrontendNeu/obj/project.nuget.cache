@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4LEm1H5itgO3VjN6QiPn6ZDl5r6WNER3g73RQjJjyrFzbl+6mehd/p/YzL0/Q3sMXwx+HZfLUp7erpZXPR7HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y.mair\\source\\repos\\TestAPI\\FrontendNeu\\FrontendNeu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y.mair\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

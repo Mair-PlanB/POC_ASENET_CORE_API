@@ -1,0 +1,15 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Shared;
+using Shared.Models;
+
+namespace TestAPI.Models
+{
+    public class TodoContext : DbContext
+    {
+        public TodoContext(DbContextOptions<TodoContext> options) : base(options)
+        {
+        }
+
+        public DbSet<TodoItem> TodoItems { get; set; } = null!;
+    }
+}
